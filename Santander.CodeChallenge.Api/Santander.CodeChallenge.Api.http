@@ -1,0 +1,6 @@
+@Santander.CodeChallenge.Api_HostAddress = http://localhost:5082
+
+GET {{Santander.CodeChallenge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
